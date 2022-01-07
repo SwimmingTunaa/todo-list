@@ -62,7 +62,6 @@ const ToDoItem = ({id, text, colour, setToDoItems, toDoItems}) =>
             </li>
         </React.Fragment>
     )
-    
 }
 
 export default ToDoItem;
